@@ -1,0 +1,20 @@
+const myAge = 30 
+// this is my age
+let earlyYears = 2
+// variable early years idk man
+earlyYears *= 10.5
+//early year variable
+let laterYears = myAge - 2
+//number 4 please help me
+laterYears *= 4
+//later years multiplier
+console.log(laterYears)
+console.log(earlyYears)
+myAgeInDogYears = laterYears + earlyYears
+//adding them up dude why u need explain
+console.log(myAgeInDogYears)
+myName = 'Justin Newman'.toLowerCase();
+//my name in lower case
+console.log(`My name is ${myName}. I am ${myAgeInDogYears} years old in dog years.`);
+//stole this bc lazy. ${}
+
