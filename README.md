@@ -1,5 +1,5 @@
 -  Hi, I’m @NustinJewman
--  I’m interested in ... analytics, web3, sports betting, 
+-  I’m interested in ... analytics, web3, 
 -  I’m currently learning ... Python, SQL, HTML
 -  I’m looking to collaborate on ... 
 -  How to reach me ...
